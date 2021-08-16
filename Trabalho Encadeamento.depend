@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1628094123 source:/home/joao/Documentos/Estrutura de Dados/Trabalho Encadeamento/main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1628093347 /home/joao/Documentos/Estrutura de Dados/Trabalho Encadeamento/matriz.h
+
+1628094121 source:/home/joao/Documentos/Estrutura de Dados/Trabalho Encadeamento/matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
